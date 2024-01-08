@@ -76,3 +76,9 @@
 
 ## 10.8. Funcionalidade Implementada
 
+
+Faixa etária cão
+
+Cao pequeno ate 10kg, filhote ate 9 meses a 1 ano, adulto de 1 ano a 8 anos
+Cao medio 10kg a 25kg,filhote ate  1 ano a 1 ano e 2 meses, adulto 1 ano e 2 meses a 8 anos
+Cao grande +25kg ate filhotes ate 1 ano e 6 meses, adulto ate 6 anos 
