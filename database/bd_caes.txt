@@ -1,0 +1,14 @@
+13
+1;1;Andre;22;20;6;Masculino;Liso;Preto;27-12-2020;Porto;Beagle;0;0;
+2;1;Viviana;15;20;6;Feminino;Liso;Castanho;27-12-2020;Braga;Rottweiler;0;0;
+3;1;Nani;21;24;4;Masculino;Liso;Preto;27-12-2020;Porto;ChowChow;0;0;
+4;1;Margarida;18;22;0;Feminino;Liso;Branco;27-12-2020;Porto;ChowChow;0;0;
+5;1;Joaquim;10;20;3;Masculino;Liso;Preto;27-12-2003;Porto;Rottweiler;1;2;
+6;1;Nikita;13;19;9;Feminino;Liso;Preto;27-12-2004;Braga;ChowChow;0;0;
+7;0;Jonas;4;0;6;Masculino;Liso;Azul;27-12-2020;Felgueiras;ChowChow;5;6;
+8;2;Simba;30;20;6;Masculino;Liso;Preto;27-12-2020;Porto;ChowChow;3;4;
+9;0;Cookie;8;19;9;Feminino;Liso;Castanho;27-12-2004;Porto;ChowChow;1;2;
+10;0;Bolas;5;0;2;Masculino;Liso;Preto;27-12-2020;Margem Sul;ChowChow;8;9;
+11;1;Antonio;12;14;6;Masculino;Liso;Preto;27-12-2020;Matosinhos;ChowChow;3;4;
+12;1;Francisco;19;12;6;Masculino;Liso;Preto;27-12-2020;Porto;ChowChow;1;2;
+13;1;Gabriel;14;0;9;Masculino;Liso;Branco;21-06-2023;Aveiro;Pitbull;0;0;
